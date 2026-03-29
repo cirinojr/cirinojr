@@ -1,26 +1,67 @@
-# Hey! Nice to see you.
+# Hi, I'm Claudio Cirino
 
-# Things I code with
+Senior WordPress Developer with 20+ years of experience building fast, secure, and scalable digital products.
 
-![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Blog](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+I specialize in:
 
-<!-- ![Claudio Cirino jr GitHub stats](https://github-readme-stats.vercel.app/api?username=cirinojr&show_icons=true&theme=dracula) -->
+- WordPress development
+- Gutenberg block development
+- PHP and custom theme/plugin architecture
+- Performance optimization and Core Web Vitals
+- Security hardening
+- Front-end experience with a strong UX mindset
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirinojr&langs_count=8)
+## What I focus on
 
-# Social Networks
+I enjoy building WordPress solutions that balance business goals, performance, maintainability, and user experience.
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-cirino/)
-[![Blog](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/claudio-cirino-jr)
+My work often involves:
 
-# Contact
+- custom WordPress themes and plugins
+- Gutenberg-based editorial experiences
+- performance optimization for high-traffic websites
+- cache strategies and edge delivery
+- secure and maintainable PHP architectures
+- front-end implementations with attention to detail
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiocirino@gmail.com)
+## Featured repositories
+
+### TurboPress Embed
+A Gutenberg plugin that generates static embedded content for providers like YouTube, Vimeo, and Spotify, helping reduce unnecessary requests and improve performance.
+
+### Cirino Images Compressor
+A WordPress plugin that converts Media Library images to WebP in bulk using scheduled batches, with admin controls for quality, compression mode, and file retention.
+
+### Cloudflare Cirino
+A lightweight WordPress plugin that automates Cloudflare cache invalidation when content is updated.
+
+### SKL Theme
+A WordPress editorial theme focused on configurable branding, reusable template parts, responsive navigation, and performance-minded asset delivery.
+
+## Tech stack
+
+- WordPress
+- PHP
+- JavaScript
+- React / Gutenberg
+- MySQL
+- HTML
+- CSS
+- Cloudflare
+
+## Professional mindset
+
+I care about shipping solutions that are:
+
+- fast
+- reliable
+- easy to maintain
+- user-centered
+- aligned with real business needs
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/claudio-cirino](https://www.linkedin.com/in/claudio-cirino)
+- Portfolio: [dev.claudiocirino.com](http://dev.claudiocirino.com)
+
+Thanks for visiting my profile.
