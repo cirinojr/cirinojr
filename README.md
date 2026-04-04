@@ -35,7 +35,7 @@ A WordPress plugin that converts Media Library images to WebP in bulk using sche
 ### Cloudflare Cirino
 A lightweight WordPress plugin that automates Cloudflare cache invalidation when content is updated.
 
-### SKL Theme
+### Portal AM24h
 A WordPress editorial theme focused on configurable branding, reusable template parts, responsive navigation, and performance-minded asset delivery.
 
 ## Tech stack
