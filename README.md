@@ -1,67 +1,47 @@
-# Hi, I'm Claudio Cirino
+# Claudio Cirino
 
-Senior WordPress Developer with 20+ years of experience building fast, secure, and scalable digital products.
-
-I specialize in:
-
-- WordPress development
-- Gutenberg block development
-- PHP and custom theme/plugin architecture
-- Performance optimization and Core Web Vitals
-- Security hardening
-- Front-end experience with a strong UX mindset
+Senior WordPress Engineer with 20+ years building and maintaining high-traffic publishing platforms. I work across backend and frontend, with emphasis on Gutenberg, PHP architecture, performance engineering, and application security.
 
 ## What I focus on
 
-I enjoy building WordPress solutions that balance business goals, performance, maintainability, and user experience.
-
-My work often involves:
-
-- custom WordPress themes and plugins
-- Gutenberg-based editorial experiences
-- performance optimization for high-traffic websites
-- cache strategies and edge delivery
-- secure and maintainable PHP architectures
-- front-end implementations with attention to detail
+- Custom WordPress plugins and themes designed for long-term maintainability
+- Gutenberg block systems and editorial workflows for content teams
+- Performance optimization across rendering, assets, caching, and Core Web Vitals
+- Security hardening in code, deployment, and operational practices
+- Reliable delivery for high-traffic platforms with clear technical trade-offs
 
 ## Featured repositories
 
 ### TurboPress Embed
-A Gutenberg plugin that generates static embedded content for providers like YouTube, Vimeo, and Spotify, helping reduce unnecessary requests and improve performance.
+WordPress plugin that replaces third-party embed iframes with static placeholders and controlled lazy activation. Reduces initial page weight, limits external requests, and improves render performance while preserving editorial embed workflows.
 
 ### Cirino Images Compressor
-A WordPress plugin that converts Media Library images to WebP in bulk using scheduled batches, with admin controls for quality, compression mode, and file retention.
+Media optimization plugin for WordPress that performs batch conversion to WebP with scheduled processing and configurable compression settings. Helps control image payload size at scale without disrupting Media Library operations.
 
 ### Cloudflare Cirino
-A lightweight WordPress plugin that automates Cloudflare cache invalidation when content is updated.
+WordPress integration for targeted Cloudflare cache invalidation triggered by content lifecycle events. Keeps cached content fresh while avoiding broad cache purges that reduce cache efficiency.
 
 ### Portal AM24h
-A WordPress editorial theme focused on configurable branding, reusable template parts, responsive navigation, and performance-minded asset delivery.
+Editorial WordPress theme built for modular templates, configurable branding, and responsive navigation. Structured for predictable performance and maintainable front-end delivery on content-heavy sites.
 
 ## Tech stack
 
 - WordPress
 - PHP
 - JavaScript
-- React / Gutenberg
+- React and Gutenberg APIs
 - MySQL
-- HTML
-- CSS
+- HTML and CSS
 - Cloudflare
 
 ## Professional mindset
 
-I care about shipping solutions that are:
-
-- fast
-- reliable
-- easy to maintain
-- user-centered
-- aligned with real business needs
+- Prioritize clear architecture over short-term shortcuts
+- Build for operability: predictable deployments, observability, and rollback safety
+- Treat performance and security as baseline requirements, not final polish
+- Balance engineering quality with product and editorial goals
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/claudio-cirino](https://www.linkedin.com/in/claudio-cirino)
 - Portfolio: [dev.claudiocirino.com](http://dev.claudiocirino.com)
-
-Thanks for visiting my profile.
