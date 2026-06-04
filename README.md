@@ -1,47 +1,52 @@
 # Claudio Cirino
 
-Senior WordPress Engineer with 20+ years building and maintaining high-traffic publishing platforms. I work across backend and frontend, with emphasis on Gutenberg, PHP architecture, performance engineering, and application security.
+Senior WordPress Engineer | PHP and Frontend Architecture | Performance and Security for High-Traffic Platforms
 
-## What I focus on
+I am a Brazilian software engineer with 20+ years of experience building and maintaining production WordPress systems. My work combines backend and frontend engineering with emphasis on Gutenberg, PHP architecture, Core Web Vitals, operational reliability, and application security.
 
-- Custom WordPress plugins and themes designed for long-term maintainability
-- Gutenberg block systems and editorial workflows for content teams
-- Performance optimization across rendering, assets, caching, and Core Web Vitals
-- Security hardening in code, deployment, and operational practices
-- Reliable delivery for high-traffic platforms with clear technical trade-offs
+## What I specialize in
 
-## Featured repositories
+- WordPress architecture for themes and plugins with long-term maintainability
+- Gutenberg block systems and editorial workflow design
+- Core Web Vitals optimization, render-path control, and asset delivery strategy
+- Image optimization pipelines and media performance at scale
+- Cloudflare integration, cache invalidation strategy, and edge-aware delivery
+- Security hardening through strict sanitization, escaping, and privileged action controls
 
-### TurboPress Embed
-WordPress plugin that replaces third-party embed iframes with static placeholders and controlled lazy activation. Reduces initial page weight, limits external requests, and improves render performance while preserving editorial embed workflows.
+## Featured Projects
 
-### Cirino Images Compressor
-Media optimization plugin for WordPress that performs batch conversion to WebP with scheduled processing and configurable compression settings. Helps control image payload size at scale without disrupting Media Library operations.
+### [Portal AM24h](https://github.com/cirinojr/portalam24h)
+Production-grade editorial WordPress theme focused on modular architecture, predictable frontend delivery, secure settings boundaries, and practical Core Web Vitals strategy.
 
-### Cloudflare Cirino
-WordPress integration for targeted Cloudflare cache invalidation triggered by content lifecycle events. Keeps cached content fresh while avoiding broad cache purges that reduce cache efficiency.
+### [TurboPress Embed](https://github.com/cirinojr/turbopress-embed)
+Performance-first Gutenberg embed plugin that renders lightweight static previews and loads third-party players only after user interaction.
 
-### Portal AM24h
-Editorial WordPress theme built for modular templates, configurable branding, and responsive navigation. Structured for predictable performance and maintainable front-end delivery on content-heavy sites.
+### [Cloudflare Cirino](https://github.com/cirinojr/cloudflare-cirino)
+WordPress plugin for targeted Cloudflare cache invalidation with optional managed cache rules to keep edge content fresh without unnecessary broad purges.
 
-## Tech stack
+### [Cirino Images Compressor](https://github.com/cirinojr/cirino-images-compressor)
+WordPress media optimization plugin with capability-aware fallback chains and batch workflows for practical file size reduction in production environments.
+
+## Tech Stack
 
 - WordPress
 - PHP
 - JavaScript
-- React and Gutenberg APIs
+- Gutenberg APIs
+- React (Gutenberg context)
 - MySQL
-- HTML and CSS
+- HTML/CSS
 - Cloudflare
 
-## Professional mindset
+## Engineering Approach
 
-- Prioritize clear architecture over short-term shortcuts
-- Build for operability: predictable deployments, observability, and rollback safety
-- Treat performance and security as baseline requirements, not final polish
-- Balance engineering quality with product and editorial goals
+- Performance and security are baseline requirements, not final polish
+- Architecture should reduce operational risk and keep delivery predictable
+- Technical decisions should balance maintainability, reliability, and measurable runtime impact
+- Documentation is part of engineering quality, not post-work
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/claudio-cirino](https://www.linkedin.com/in/claudio-cirino)
 - Portfolio: [dev.claudiocirino.com](http://dev.claudiocirino.com)
+- GitHub: [github.com/cirinojr](https://github.com/cirinojr)
