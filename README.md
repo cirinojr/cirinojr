@@ -48,5 +48,4 @@ WordPress media optimization plugin with capability-aware fallback chains and ba
 ## Contact
 
 - LinkedIn: [linkedin.com/in/claudio-cirino](https://www.linkedin.com/in/claudio-cirino)
-- Portfolio: [dev.claudiocirino.com](http://dev.claudiocirino.com)
 - GitHub: [github.com/cirinojr](https://github.com/cirinojr)
