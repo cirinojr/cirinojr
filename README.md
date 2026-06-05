@@ -18,6 +18,8 @@ I am a Brazilian software engineer with 20+ years of experience building and mai
 ### [Portal AM24h](https://github.com/cirinojr/portalam24h)
 Production-grade editorial WordPress theme focused on modular architecture, predictable frontend delivery, secure settings boundaries, and practical Core Web Vitals strategy.
 
+Live site: [portalam24h.com](https://portalam24h.com)
+
 ### [TurboPress Embed](https://github.com/cirinojr/turbopress-embed)
 Performance-first Gutenberg embed plugin that renders lightweight static previews and loads third-party players only after user interaction.
 
@@ -44,6 +46,15 @@ WordPress media optimization plugin with capability-aware fallback chains and ba
 - Architecture should reduce operational risk and keep delivery predictable
 - Technical decisions should balance maintainability, reliability, and measurable runtime impact
 - Documentation is part of engineering quality, not post-work
+
+## PageSpeed Validation
+
+To validate the real production result, test the live site directly:
+
+- Live URL: [https://portalam24h.com](https://portalam24h.com)
+- PageSpeed Insights: [Run test for portalam24h.com](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fportalam24h.com)
+
+![Portal AM24h PageSpeed result](./page-speed-am24h.png)
 
 ## Contact
 
